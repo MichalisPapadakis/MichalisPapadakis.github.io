@@ -1,0 +1,18 @@
+# main links
+main:
+   - title: "Research & Work"
+     url: /_pages/research/
+   - title: "About Me"
+     url: /_pages/bio/
+   - title: "University Projects"
+     url: /_pages/projects/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
