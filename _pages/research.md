@@ -37,7 +37,7 @@ intro:
 
 
 feature_row_1:
-  - image_path: /assets/images/Experimental.png
+  - image_path: /assets/images/ThesisThumbnail.png
     title: "Modeling and In-flight Torso Attitude Stabilization of a Jumping Quadruped"
     excerpt: >
       <b>M. Papadakis</b>, J. A. Olsen, I. Poulakakis, and K. Alexis, "Modeling and In-flight Torso Attitude Stabilization
