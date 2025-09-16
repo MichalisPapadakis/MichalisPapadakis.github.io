@@ -4,7 +4,7 @@ classes: wide
 
 #the layout or theme is designed to look for header.image, it will display the image automatically
 # header: 
-  # image: /assets/images/<image>.png
+  # image: /assets/images/<image>.png 
 
 
 intro:
